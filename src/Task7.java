@@ -8,7 +8,7 @@ public class Task7
         {
             for (int j = 0; j < size; j++)
             {
-                System.out.print("* ");
+                System.out.print("*");
             }
             System.out.println();
         }
